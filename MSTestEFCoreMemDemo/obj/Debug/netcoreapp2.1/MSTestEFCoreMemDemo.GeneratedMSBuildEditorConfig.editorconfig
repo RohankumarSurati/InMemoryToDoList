@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MSTestEFCoreMemDemo
+build_property.ProjectDir = C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\MSTestEFCoreMemDemo\
