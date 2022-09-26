@@ -1,0 +1,13 @@
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.deps.json
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.pdb
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.pdb
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.csproj.AssemblyReference.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.AssemblyInfoInputs.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.AssemblyInfo.cs
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.csproj.CoreCompileInputs.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.csproj.CopyComplete
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Repository\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.pdb

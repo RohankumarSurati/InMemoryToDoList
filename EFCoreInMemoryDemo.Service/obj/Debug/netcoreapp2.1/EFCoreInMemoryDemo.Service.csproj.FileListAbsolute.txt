@@ -1,0 +1,15 @@
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.deps.json
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.pdb
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Repository.pdb
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.pdb
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.csproj.AssemblyReference.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.AssemblyInfoInputs.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.AssemblyInfo.cs
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.csproj.CoreCompileInputs.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.csproj.CopyComplete
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Service\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Service.pdb

@@ -1,0 +1,10 @@
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.deps.json
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\bin\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.pdb
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.csproj.AssemblyReference.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.AssemblyInfoInputs.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.AssemblyInfo.cs
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.csproj.CoreCompileInputs.cache
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.dll
+C:\RohanProjects\InMemoryEFCoreDemo-master\InMemoryEFCoreDemo-master 2\EFCoreInMemoryDemo.Model\obj\Debug\netcoreapp2.1\EFCoreInMemoryDemo.Model.pdb
